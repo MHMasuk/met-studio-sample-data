@@ -1,982 +1,767 @@
 {
-    "forecast_date": "20231213",
-    "temp": {
-      "surface": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "100hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "900hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "1000hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "1100hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "2000hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ]
+  "forecast_date": "20231213",
+  "ecmwf": {
+    "surface": {
+      "temp": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": ["#5b46a8", "#5862ba", "#5980c9", "#6cacc9", "#7eccc0", "#93ddac", "#bbe99e", "#e7f292", "#f2e487", "#f6ce7c", "#ef9367", "#dc6059", "#ba4554", "#9b314f", "#7f224a", "#701b46", "#641542"],
+        "data":[
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "temp.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "temp.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "temp.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "temp.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "temp.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "temp.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "temp.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "temp.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "temp.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "temp.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "temp.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "temp.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "temp.surface.12162023.1216202306.png"
+          }
+        ]
+      },
+      "pressure": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": ["#fffcd4ff", "#b1cdc2ff", "#629eb0ff", "#38627aff", "#0d2644ff"],
+        "data": [
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "pressure.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "pressure.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "pressure.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "pressure.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "pressure.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "pressure.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "pressure.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "pressure.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "pressure.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "pressure.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "pressure.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "pressure.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "pressure.surface.12162023.1216202306.png"
+          }
+        ]
+      },
+      "humidity": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": [
+          "#ae6e38",
+          "#ae6e38",
+          "#ae6e38",
+          "#ae6e38",
+          "#ae9238",
+          "#69ae38",
+          "#367b94",
+          "#389eae",
+          "#388eae",
+          "#3885ae",
+          "#3870a6",
+          "#384772",
+          "#384772"
+        ],
+        "data": [
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "humidity.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "humidity.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "humidity.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "humidity.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "humidity.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "humidity.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "humidity.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "humidity.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "humidity.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "humidity.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "humidity.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "humidity.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "humidity.surface.12162023.1216202306.png"
+          }
+        ]
+      }
     },
-    "pressure": {
-      "surface": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "100hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "900hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "1000hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "1100hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "2000hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ]
+    "900hpa": {
+      "temp": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": ["#5b46a8", "#5862ba", "#5980c9", "#6cacc9", "#7eccc0", "#93ddac", "#bbe99e", "#e7f292", "#f2e487", "#f6ce7c", "#ef9367", "#dc6059", "#ba4554", "#9b314f", "#7f224a", "#701b46", "#641542"],
+        "data":[
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "temp.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "temp.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "temp.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "temp.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "temp.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "temp.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "temp.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "temp.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "temp.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "temp.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "temp.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "temp.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "temp.surface.12162023.1216202306.png"
+          }
+        ]
+      },
+      "pressure": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": ["#fffcd4ff", "#b1cdc2ff", "#629eb0ff", "#38627aff", "#0d2644ff"],
+        "data": [
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "pressure.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "pressure.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "pressure.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "pressure.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "pressure.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "pressure.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "pressure.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "pressure.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "pressure.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "pressure.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "pressure.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "pressure.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "pressure.surface.12162023.1216202306.png"
+          }
+        ]
+      },
+      "humidity": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": [
+          "#ae6e38",
+          "#ae6e38",
+          "#ae6e38",
+          "#ae6e38",
+          "#ae9238",
+          "#69ae38",
+          "#367b94",
+          "#389eae",
+          "#388eae",
+          "#3885ae",
+          "#3870a6",
+          "#384772",
+          "#384772"
+        ],
+        "data": [
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "humidity.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "humidity.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "humidity.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "humidity.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "humidity.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "humidity.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "humidity.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "humidity.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "humidity.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "humidity.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "humidity.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "humidity.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "humidity.surface.12162023.1216202306.png"
+          }
+        ]
+      }
+    }
+  },
+  "icons": {
+    "surface": {
+      "temp": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": ["#5b46a8", "#5862ba", "#5980c9", "#6cacc9", "#7eccc0", "#93ddac", "#bbe99e", "#e7f292", "#f2e487", "#f6ce7c", "#ef9367", "#dc6059", "#ba4554", "#9b314f", "#7f224a", "#701b46", "#641542"],
+        "data":[
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "temp.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "temp.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "temp.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "temp.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "temp.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "temp.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "temp.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "temp.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "temp.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "temp.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "temp.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "temp.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "temp.surface.12162023.1216202306.png"
+          }
+        ]
+      },
+      "pressure": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": ["#fffcd4ff", "#b1cdc2ff", "#629eb0ff", "#38627aff", "#0d2644ff"],
+        "data": [
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "pressure.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "pressure.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "pressure.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "pressure.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "pressure.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "pressure.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "pressure.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "pressure.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "pressure.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "pressure.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "pressure.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "pressure.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "pressure.surface.12162023.1216202306.png"
+          }
+        ]
+      },
+      "humidity": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": [
+          "#ae6e38",
+          "#ae6e38",
+          "#ae6e38",
+          "#ae6e38",
+          "#ae9238",
+          "#69ae38",
+          "#367b94",
+          "#389eae",
+          "#388eae",
+          "#3885ae",
+          "#3870a6",
+          "#384772",
+          "#384772"
+        ],
+        "data": [
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "humidity.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "humidity.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "humidity.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "humidity.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "humidity.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "humidity.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "humidity.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "humidity.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "humidity.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "humidity.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "humidity.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "humidity.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "humidity.surface.12162023.1216202306.png"
+          }
+        ]
+      }
     },
-    "humidity": {
-      "surface": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "100hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "900hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "1000hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "1100hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ],
-      "2000hpa": [
-        {
-          "forecast_date_time": "2023-12-12 06:00",
-          "file": "temp.surface.12122023.1212202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 12:00",
-          "file": "temp.surface.12122023.1212202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-13 18:00",
-          "file": "temp.surface.12122023.1212202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 00:00",
-          "file": "temp.surface.12122023.1213202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 06:00",
-          "file": "temp.surface.12122023.1213202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 12:00",
-          "file": "temp.surface.12122023.1213202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-14 18:00",
-          "file": "temp.surface.12122023.1213202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 00:00",
-          "file": "temp.surface.12122023.1214202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 06:00",
-          "file": "temp.surface.12122023.1214202306.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 12:00",
-          "file": "temp.surface.12122023.1214202312.png"
-        },
-        {
-          "forecast_date_time": "2023-12-15 18:00",
-          "file": "temp.surface.12122023.1214202318.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 00:00",
-          "file": "temp.surface.12122023.1215202300.png"
-        },
-        {
-          "forecast_date_time": "2023-12-16 06:00",
-          "file": "temp.surface.12122023.1215202306.png"
-        }
-      ]
+    "900hpa": {
+      "temp": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": ["#5b46a8", "#5862ba", "#5980c9", "#6cacc9", "#7eccc0", "#93ddac", "#bbe99e", "#e7f292", "#f2e487", "#f6ce7c", "#ef9367", "#dc6059", "#ba4554", "#9b314f", "#7f224a", "#701b46", "#641542"],
+        "data":[
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "temp.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "temp.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "temp.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "temp.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "temp.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "temp.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "temp.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "temp.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "temp.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "temp.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "temp.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "temp.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "temp.surface.12162023.1216202306.png"
+          }
+        ]
+      },
+      "pressure": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": ["#fffcd4ff", "#b1cdc2ff", "#629eb0ff", "#38627aff", "#0d2644ff"],
+        "data": [
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "pressure.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "pressure.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "pressure.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "pressure.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "pressure.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "pressure.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "pressure.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "pressure.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "pressure.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "pressure.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "pressure.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "pressure.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "pressure.surface.12162023.1216202306.png"
+          }
+        ]
+      },
+      "humidity": {
+        "scale_value": [-10, 0, 10, 20, 30, 40, 50],
+        "color_range": [
+          "#ae6e38",
+          "#ae6e38",
+          "#ae6e38",
+          "#ae6e38",
+          "#ae9238",
+          "#69ae38",
+          "#367b94",
+          "#389eae",
+          "#388eae",
+          "#3885ae",
+          "#3870a6",
+          "#384772",
+          "#384772"
+        ],
+        "data": [
+          {
+            "date_time": "2023-12-13 06:00",
+            "file": "humidity.surface.12132023.1213202306.png"
+          },
+          {
+            "date_time": "2023-12-13 12:00",
+            "file": "humidity.surface.12132023.1213202312.png"
+          },
+          {
+            "date_time": "2023-12-13 18:00",
+            "file": "humidity.surface.12132023.1213202318.png"
+          },
+          {
+            "date_time": "2023-12-14 00:00",
+            "file": "humidity.surface.12142023.1214202300.png"
+          },
+          {
+            "date_time": "2023-12-14 06:00",
+            "file": "humidity.surface.12142023.1214202306.png"
+          },
+          {
+            "date_time": "2023-12-14 12:00",
+            "file": "humidity.surface.12142023.1214202312.png"
+          },
+          {
+            "date_time": "2023-12-14 18:00",
+            "file": "humidity.surface.12142023.1214202318.png"
+          },
+          {
+            "date_time": "2023-12-15 00:00",
+            "file": "humidity.surface.12152023.1215202300.png"
+          },
+          {
+            "date_time": "2023-12-15 06:00",
+            "file": "humidity.surface.12152023.1215202306.png"
+          },
+          {
+            "date_time": "2023-12-15 12:00",
+            "file": "humidity.surface.12152023.1215202312.png"
+          },
+          {
+            "date_time": "2023-12-15 18:00",
+            "file": "humidity.surface.12152023.1215202318.png"
+          },
+          {
+            "date_time": "2023-12-16 00:00",
+            "file": "humidity.surface.12162023.1216202300.png"
+          },
+          {
+            "date_time": "2023-12-16 06:00",
+            "file": "humidity.surface.12162023.1216202306.png"
+          }
+        ]
+      }
     }
   }
-  
+}

@@ -11,8 +11,8 @@ def duplicate_files_with_prefix(src_folder, src_prefix, dest_prefix):
 
 # Specify your directory path and prefixes
 directory_path = "C:\\Coding\\RIMES\\sample_data\\12122023"
-src_prefix = "ecmwf_surface_temp_12122023"
-dest_prefix = "gfs_900hpa_temp_12122023"
+src_prefix = "ecmwf_900hpa_rain_12122023"
+dest_prefix = "gfs_900hpa_visibility_12122023"
 
 # Duplicate files
 duplicate_files_with_prefix(directory_path, src_prefix, dest_prefix)

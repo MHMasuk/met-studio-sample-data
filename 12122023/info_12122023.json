@@ -12,6 +12,7 @@
     "surface": {
       "temp": {
         "scale_value": [
+          -20,
           -10,
           0,
           10,

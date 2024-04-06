@@ -1,0 +1,99 @@
+const dataset_two = [
+    {
+        // date: new Date("2022-01-01"),
+        date: new Date("2022-01-01"),
+        value: 0,
+        location: 12,
+        rainfall: 23,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/01d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-02-01"),
+        value: 5,
+        location: 23,
+        rainfall: 35,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/25d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-03-01"),
+        value: 10,
+        location: 21,
+        rainfall: 35,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/01d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-04-01"),
+        value: 30,
+        location: 22,
+        rainfall: 22,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/28d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-05-01"),
+        value: 20,
+        location: 25,
+        rainfall: 21,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/25d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-06-01"),
+        value: 25,
+        location: 25,
+        rainfall: 15,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/05m.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-07-01"),
+        value: 35,
+        location: 21,
+        rainfall: 20,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/01d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-08-01"),
+        value: 21,
+        location: 15,
+        rainfall: 21,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/28d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-09-01"),
+        value: 25,
+        location: 13,
+        rainfall: 22,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/05m.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-10-01"),
+        value: 26,
+        location: 12,
+        rainfall: 25,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/01d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-11-01"),
+        value: 29,
+        location: 15,
+        rainfall: 20,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/05m.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    },
+    {
+        date: new Date("2022-12-01"),
+        value: 21,
+        location: 10,
+        rainfall: 18,
+        image_url: 'https://raw.githubusercontent.com/nrkno/yr-weather-symbols/master/symbols/shadows/01d.svg',
+        wind_barb: 'https://p.kindpng.com/picc/s/377-3773887_transparent-wind-blowing-png-png-download.png'
+    }
+];
